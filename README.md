@@ -62,3 +62,5 @@ Translate business questions into analytical visualizations
 Design stakeholder-specific dashboards
 
 Communicate insights clearly to support operational, financial, and sales decisions
+
+https://public.tableau.com/app/profile/priyanka.gopal5381/vizzes
